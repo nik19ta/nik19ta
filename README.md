@@ -56,6 +56,9 @@
 
 <br />
 
+
+### My stats:
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nik19ta&show_icons=true&hide_border=true" />
 
 [website]: https://taki.pro
