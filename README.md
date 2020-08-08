@@ -58,5 +58,5 @@
 
 [website]: https://taki.pro
 [vk]: https://vk.com/nik19ta
-[telegram]: t.me/nik19ta
+[telegram]: http://t.me/nik19ta
 
