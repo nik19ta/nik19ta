@@ -19,8 +19,6 @@
 
 
 ### Languages and Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact)
-
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -55,9 +53,6 @@
 <img align="left" alt="Flask" width="26px" src="https://www.seekpng.com/png/full/875-8753366_flask-framework-logo-svg.png" />
 
 <br />
-
-
-### My stats:
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nik19ta&show_icons=true&hide_border=true" />
 
