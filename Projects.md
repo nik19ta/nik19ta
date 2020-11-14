@@ -87,9 +87,9 @@
 
 -  Репозитории:
 
-    - [Демо веб версии](https://nik19ta.github.io/castdev/)
+    - [Демо веб версии](https://nik19ta.github.io/CastDev/)
 
-- [Картинки (клик)](https://github.com/nik19ta/summary/tree/master/img/CastDev)
+- [Картинки (клик)](https://drive.google.com/drive/folders/1dULu4ZdGhX2YBW2oNAEXMfQ9R5ojw1YF?usp=sharing)
 
 
 ## Консольная программа который клонирует все репозитории github юзера
