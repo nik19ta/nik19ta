@@ -87,7 +87,7 @@
 
 -  Репозитории:
 
-    - [Демо веб версии](nik19ta.github.io/castdev/)
+    - [Демо веб версии](https://nik19ta.github.io/castdev/)
 
 - [Картинки (клик)](https://github.com/nik19ta/summary/tree/master/img/CastDev)
 
