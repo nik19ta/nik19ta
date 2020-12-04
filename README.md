@@ -8,6 +8,9 @@
 
 <br />
 
+### Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/2091/2091464.svg" />][website]
@@ -15,9 +18,6 @@
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/733/733583.svg" />][vk]
 
 <br />
-
-### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact)
 
 
 ### Languages and Tools:
