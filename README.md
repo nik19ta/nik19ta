@@ -16,6 +16,8 @@
 
 <br />
 
+### Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact)
 
 
 ### Languages and Tools:
