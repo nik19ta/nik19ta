@@ -9,7 +9,7 @@
 <br />
 
 ### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact&hide=html,vue&langs_count=8)
 
 ### Connect with me:
 
