@@ -7,10 +7,6 @@
 - 🤯 I'm looking for an adventure on my head.
 
 <br />
-
-### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact&hide=html,vue&langs_count=8)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="28px" src="https://image.flaticon.com/icons/svg/2111/2111644.svg" />][telegram]
