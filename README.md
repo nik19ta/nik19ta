@@ -8,7 +8,7 @@
 
 <br />
 
-```sh
+```lua
 const Nikita = {
     code: {
         Javascript: {
