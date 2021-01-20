@@ -8,7 +8,7 @@
 
 <br />
 
-```ruby
+```js
 const Nikita = {
     code: {
         Javascript: {
@@ -21,14 +21,11 @@ const Nikita = {
             backEnd: ["Native", "Flask", "Socket", "pandas"],
             tests: ["UnitTest"],
         },
-        frontEnd: {
-            css: ["Vuetify", "Bootstrap", "Scss/Sass/Less", "Anime.js", "Animate.css",
-                "Fontawesome"
-            ],
-            databases: ["MongoDB", "MySql", "SqlLite"],
-        },
-        Ide: "VSCode",
+        markupLanguages: ["md", "html", "xml", "svg"],
+        frontEnd: ["Vuetify", "Bootstrap", "Scss/Sass/Less", "Anime.js", "Animate.css"],
+        Databases: ["MongoDB", "MySql", "SqlLite"],
         DevOps: ["Linux", "Docker", "Nginx", "Bash", "GIT"],
+        Ide: "VSCode",
     },
     ConnectWithMe: {
         gmail: "nikhvatov19@gmail.com",
