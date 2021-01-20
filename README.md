@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm [nikita](http://t.me/nik19ta) 👋</h2>
+<h2 align="center">Hi there, I'm nikita 👋</h2>
 
 ## I'm a Student, Frontend and Backend Developer!
 - 🌱 I’m currently learning everything 🤣
