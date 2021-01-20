@@ -1,4 +1,4 @@
-### Hi there, I'm [nikita][telegram] 👋
+### Hi there, I'm [nikita](http://t.me/nik19ta) 👋
 
 ## I'm a Student, Frontend and Backend Developer!
 - 🌱 I’m currently learning everything 🤣
