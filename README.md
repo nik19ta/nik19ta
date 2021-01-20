@@ -15,33 +15,32 @@
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://p7.hiclipart.com/preview/775/292/8/mysql-database-logo-node-js-computer-software-others.jpg" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png" />
-<img align="left" alt="Flask" width="26px" src="https://www.seekpng.com/png/full/875-8753366_flask-framework-logo-svg.png" />
-
-[vk]: https://vk.com/nik19ta
-[telegram]: http://t.me/nik19ta
-
+```js
+const Nikita = {
+    code: {
+        Javascript: {
+            backEnd: ["Native", "Node", "Express", "TypeScipt"],
+            frontEnd: ["Native", "React", "Vue (spa/pwa)", "Nuxt", "React Native"],
+            tests: ["jest", "Mocha"],
+            tools: ["JSLint", "Chrome Dev Tools", "Yarn", "pm2", "WebPack"]
+        },
+        Python: {
+            backEnd: ["Native", "Flask", "Socket", "pandas"],
+            tests: ["UnitTest"],
+        },
+        frontEnd: {
+            css: ["Vuetify", "Bootstrap", "Scss/Sass/Less", "Anime.js", "Animate.css",
+                "Fontawesome"
+            ],
+            databases: ["MongoDB", "MySql", "SqlLite"],
+        },
+        Ide: "VSCode",
+        DevOps: ["Linux", "Docker", "Nginx", "Bash", "GIT"],
+    },
+    ConnectWithMe: {
+        gmail: "nikhvatov19@gmail.com",
+        telegram: "@nik19ta",
+        vkontakte: "@nik19ta"
+    }
+}
+```
