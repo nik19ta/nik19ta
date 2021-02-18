@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm nikita 👋</h2>
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=egorkaBurkenya alt=egorkaBurkenya /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=nik19ta alt=egorkaBurkenya /> </p>
 
 ## I'm a Student, Frontend and Backend Developer!
 - 🌱 I’m currently learning everything 🤣
