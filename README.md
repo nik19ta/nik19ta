@@ -2,6 +2,10 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nik19ta alt=egorkaBurkenya /> </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact&theme=radical&bg_color=0000&show_icons=false&hide_border=true&langs_count=10)](https://github.com/nik19ta)
+
+
 ## I'm a Student, Frontend and Backend Developer!
 - 🌱 I’m currently learning everything 🤣
 - 🎓 I'm going to College (ithub)
@@ -36,7 +40,4 @@ const Nikita = {
     }
 }
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact&theme=radical&bg_color=0000&show_icons=false&hide_border=true)](https://github.com/nik19ta)
-
 
