@@ -11,7 +11,7 @@
 - 🔥 I'm trying to do something new. 
 - 🤯 I'm looking for an adventure on my head.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact&theme=radical&bg_color=0000&show_icons=false&hide_border=true&langs_count=8)](https://github.com/nik19ta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik19ta&layout=compact&theme=radical&bg_color=0000&show_icons=false&hide_border=true&langs_count=8&text_color=fe428e)](https://github.com/nik19ta)
 
 <br />
 
