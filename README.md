@@ -1,7 +1,5 @@
 <h2 align="center">Hi there, I'm nikita 👋</h2>
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=nik19ta alt=nik19ta /> </p>
-
 <p align="center">
   <a href="mailto:nikhvatov19@gmail.com">Gmail</a> -
   <a href="https://vk.com/nik19ta">Vk</a> -
