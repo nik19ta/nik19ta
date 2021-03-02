@@ -13,11 +13,11 @@
 
 ## ✨ Interesting repos:
 
-- Облочная операционная система https://github.com/nik19ta/server-os
-- Игра Соображарий - https://github.com/nik19ta/game_think
-- Интернет магазин картин на чистом js - https://github.com/nik19ta/art
-- MarkDown в html https://github.com/nik19ta/md2html
-- База данных на json https://github.com/nik19ta/tdb
+- Cloud-based operating system https://github.com/nik19ta/server-os
+- Game "Соображарий" in html - https://github.com/nik19ta/game_think
+- Online store of paintings on js - https://github.com/nik19ta/art
+- MarkDown to html https://github.com/nik19ta/md2html
+- Json database https://github.com/nik19ta/tdb
 
 <br />
 
