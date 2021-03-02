@@ -13,11 +13,11 @@
 
 ## ✨ Interesting repos:
 
-- Cloud-based operating system https://github.com/nik19ta/server-os
+- Cloud-based operating system - https://github.com/nik19ta/server-os
 - Game "Соображарий" in html - https://github.com/nik19ta/game_think
 - Online store of paintings on js - https://github.com/nik19ta/art
-- MarkDown to html https://github.com/nik19ta/md2html
-- Json database https://github.com/nik19ta/tdb
+- MarkDown to html - https://github.com/nik19ta/md2html
+- Json database - https://github.com/nik19ta/tdb
 
 <br />
 
