@@ -5,11 +5,19 @@
 
 ## I'm a Student, Frontend and Backend Developer!
 
-
 - 🌱 I’m currently learning everything 🤣
 - 🎓 I'm going to College (ithub) 
 - 🔥 I'm trying to do something new. 
 - 🤯 I'm looking for an adventure on my head.
+
+
+## ✨ Interesting repos:
+
+- Облочная операционная система https://github.com/nik19ta/server-os
+- Игра Соображарий - https://github.com/nik19ta/game_think
+- Интернет магазин картин на чистом js - https://github.com/nik19ta/art
+- MarkDown в html https://github.com/nik19ta/md2html
+- База данных на json https://github.com/nik19ta/tdb
 
 <br />
 
