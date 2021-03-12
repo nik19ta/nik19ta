@@ -8,7 +8,7 @@
 
 ## I'm a Student, Frontend and Backend Developer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🎓 I'm going to College (ithub) 
 - 🔥 I'm trying to do something new. 
 - 🤯 I'm looking for an adventure on my head.
