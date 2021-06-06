@@ -5,7 +5,7 @@
   <a href="https://vk.com/nik19ta">Vk</a> -
   <a href="https://t.me/nik19ta">Telegram</a>  - 
   <a href="https://www.codewars.com/users/nik19ta">CodeWars</a>  - 
-  <a href="nik19ta.github.io/portfolio">Portfolio</a>
+  <a href="https://nik19ta.github.io/portfolio">Portfolio</a>
 </p>
 
 ## I'm a Student, Frontend and Backend Developer!
